@@ -1,5 +1,5 @@
 # weatherApp
-A single page react native app that displays the weather results from https://openweathermap.org
+A single page react native app that displays the weather result [test] from https://openweathermap.org
 
 ![screenshot](https://drive.google.com/uc?export=view&id=1Z8PWfqMX5g1AU-5ns9o-YtJA2Eafm0-Y)
 
